@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/b0cc3af278c64f84a4e91214ef070b47/artifacts
+deleted_time: 1720828365011
+end_time: 1720828273256
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: deleted
+run_id: b0cc3af278c64f84a4e91214ef070b47
+run_name: caring-snail-38
+run_uuid: b0cc3af278c64f84a4e91214ef070b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720828171756
+status: 4
+tags: []
+user_id: minou

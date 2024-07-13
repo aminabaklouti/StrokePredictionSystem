@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/9e182441945349a986dd2e3035c4d89c/artifacts
+deleted_time: 1720828202048
+end_time: 1720827352241
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: deleted
+run_id: 9e182441945349a986dd2e3035c4d89c
+run_name: likeable-bug-693
+run_uuid: 9e182441945349a986dd2e3035c4d89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720827352224
+status: 4
+tags: []
+user_id: minou

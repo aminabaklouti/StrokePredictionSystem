@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/2796e0d5a7bd4f509c2f6bb62d630f32/artifacts
+deleted_time: 1720830028515
+end_time: 1720829911424
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: deleted
+run_id: 2796e0d5a7bd4f509c2f6bb62d630f32
+run_name: rare-grouse-453
+run_uuid: 2796e0d5a7bd4f509c2f6bb62d630f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720829674020
+status: 4
+tags: []
+user_id: minou

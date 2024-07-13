@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/282e50bec3e84ec2ad7d886ee55600a0/artifacts
+end_time: 1720826500611
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: active
+run_id: 282e50bec3e84ec2ad7d886ee55600a0
+run_name: adaptable-horse-209
+run_uuid: 282e50bec3e84ec2ad7d886ee55600a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720826073518
+status: 3
+tags: []
+user_id: minou

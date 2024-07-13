@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720830551491
+current_stage: None
+description: null
+last_updated_timestamp: 1720830551491
+name: StrokePredictionCustomModel
+run_id: 217a962894d24ef19f17dce8cdda6a45
+run_link: null
+source: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/217a962894d24ef19f17dce8cdda6a45/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/217a962894d24ef19f17dce8cdda6a45/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/724c0e52730c4477988c9376b035b217/artifacts
+deleted_time: 1720828202048
+end_time: 1720827433833
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: deleted
+run_id: 724c0e52730c4477988c9376b035b217
+run_name: delicate-rat-760
+run_uuid: 724c0e52730c4477988c9376b035b217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720827433815
+status: 4
+tags: []
+user_id: minou

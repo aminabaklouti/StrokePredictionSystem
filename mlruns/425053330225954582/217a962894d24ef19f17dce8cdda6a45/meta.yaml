@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/217a962894d24ef19f17dce8cdda6a45/artifacts
+end_time: 1720830551497
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: active
+run_id: 217a962894d24ef19f17dce8cdda6a45
+run_name: abrasive-cat-161
+run_uuid: 217a962894d24ef19f17dce8cdda6a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720830209661
+status: 3
+tags: []
+user_id: minou

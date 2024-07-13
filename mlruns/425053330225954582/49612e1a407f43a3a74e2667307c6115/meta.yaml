@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/minou/Downloads/Processed_data-20240712T230423Z-001/Processed_data/mlruns/425053330225954582/49612e1a407f43a3a74e2667307c6115/artifacts
+deleted_time: 1720830873847
+end_time: 1720830152138
+entry_point_name: ''
+experiment_id: '425053330225954582'
+lifecycle_stage: deleted
+run_id: 49612e1a407f43a3a74e2667307c6115
+run_name: abundant-ram-443
+run_uuid: 49612e1a407f43a3a74e2667307c6115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720829963617
+status: 4
+tags: []
+user_id: minou
